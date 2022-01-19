@@ -1,1 +1,1 @@
-# Secret-auth
+# Authentication-Secret
